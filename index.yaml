@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   kubescan:
   - apiVersion: v2
+    appVersion: 0.1.13
+    created: "2026-03-09T14:25:11.178436825Z"
+    description: KubeScan Kubernetes Runtime Security Platform
+    digest: d10b5cc9734f195c1bb820546807808bc7e55843753c5c799a84f4dca75591f5
+    name: kubescan
+    type: application
+    urls:
+    - https://kubescan-com.github.io/helm-charts/kubescan-0.1.13.tgz
+    version: 0.1.13
+  - apiVersion: v2
     appVersion: 0.1.11
-    created: "2026-03-09T13:42:33.496571499Z"
+    created: "2026-03-09T14:25:11.177652385Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: fa0f0cc3ad5aaaed64d3b3e311aaeae8751a2021656a30d693c7e7477ba38dc3
     name: kubescan
@@ -13,7 +23,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2026-03-09T13:42:33.498332033Z"
+    created: "2026-03-09T14:25:11.181589652Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: f40fb3e4cb0832f3793aa455ac2e0be61e1339ed90e2853f0247166913e41a6c
     name: kubescan
@@ -23,7 +33,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2026-03-09T13:42:33.497909974Z"
+    created: "2026-03-09T14:25:11.180487531Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: a7d712107e75f9bff1f22eb399df25246983c0b85bfb49b3d64e90e99793198e
     name: kubescan
@@ -33,7 +43,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2026-03-09T13:42:33.497449482Z"
+    created: "2026-03-09T14:25:11.179831791Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 5403f6cfb6a6c276d9ee4fd720367635a1db7fa5ebd1ca0f2c7fb69cb7b2502c
     name: kubescan
@@ -43,7 +53,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2026-03-09T13:42:33.497041428Z"
+    created: "2026-03-09T14:25:11.179170961Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: c99377c6c08871c56aa4eb893d886944217318779b25dcb71601fca5509eb030
     name: kubescan
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://kubescan-com.github.io/helm-charts/kubescan-0.1.3.tgz
     version: 0.1.3
-generated: "2026-03-09T13:42:33.49593098Z"
+generated: "2026-03-09T14:25:11.176748312Z"
