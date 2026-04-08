@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   kubescan:
   - apiVersion: v2
+    appVersion: 0.1.82
+    created: "2026-04-08T18:23:41.79558022Z"
+    description: KubeScan Kubernetes Runtime Security Platform
+    digest: 845c6b7b1420b23e70d90bc8bbbe16dd8ff67ccb3a59211dc98887f0c882926d
+    name: kubescan
+    type: application
+    urls:
+    - https://kubescan-com.github.io/helm-charts/kubescan-0.1.82.tgz
+    version: 0.1.82
+  - apiVersion: v2
     appVersion: 0.1.81
-    created: "2026-04-05T15:44:31.639180807Z"
+    created: "2026-04-08T18:23:41.795202986Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 54286dc7b96101e65ce83c81ba4b7a6ff6d57c55d0de37b934b2e1c54f0dbe51
     name: kubescan
@@ -13,7 +23,7 @@ entries:
     version: 0.1.81
   - apiVersion: v2
     appVersion: 0.1.80
-    created: "2026-04-05T15:44:31.638790619Z"
+    created: "2026-04-08T18:23:41.794771831Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 8688578de906640a3c63cc4187875d7b968ad0c138bcdbb3e7301d03b9875acf
     name: kubescan
@@ -23,7 +33,7 @@ entries:
     version: 0.1.80
   - apiVersion: v2
     appVersion: 0.1.79
-    created: "2026-04-05T15:44:31.638427342Z"
+    created: "2026-04-08T18:23:41.794388024Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 6deacee3c47939e6b87aa114e1a94c5c4be34b9dc232b6ffc10e9dd06bd9fb38
     name: kubescan
@@ -33,7 +43,7 @@ entries:
     version: 0.1.79
   - apiVersion: v2
     appVersion: 0.1.78
-    created: "2026-04-05T15:44:31.63800698Z"
+    created: "2026-04-08T18:23:41.793931422Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: c53492af83932a54604b59371e5ff8822781c9ff63fe466dcebd265249b4503a
     name: kubescan
@@ -43,7 +53,7 @@ entries:
     version: 0.1.78
   - apiVersion: v2
     appVersion: 0.1.77
-    created: "2026-04-05T15:44:31.637584208Z"
+    created: "2026-04-08T18:23:41.793513752Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: e3605e8acbea24779c8d3feebf51f87e144e6927746f1faed4ee9b650fab89b2
     name: kubescan
@@ -53,7 +63,7 @@ entries:
     version: 0.1.77
   - apiVersion: v2
     appVersion: 0.1.75
-    created: "2026-04-05T15:44:31.637161035Z"
+    created: "2026-04-08T18:23:41.792602632Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 5ea97b3313b1e59b958284af4b5fa44ffe3e26304b666b745652de44c1457e3f
     name: kubescan
@@ -63,7 +73,7 @@ entries:
     version: 0.1.75
   - apiVersion: v2
     appVersion: 0.1.74
-    created: "2026-04-05T15:44:31.63677412Z"
+    created: "2026-04-08T18:23:41.791754157Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: a9f7a909da8eeefb45f3083637c9ca0e472fd577362d7d54ad46ced3179694d0
     name: kubescan
@@ -73,7 +83,7 @@ entries:
     version: 0.1.74
   - apiVersion: v2
     appVersion: 0.1.73
-    created: "2026-04-05T15:44:31.636375335Z"
+    created: "2026-04-08T18:23:41.790707854Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 124ba52abc6914339341b565148014f7f5e146285b9e0e5b99872a3e59d24f17
     name: kubescan
@@ -83,7 +93,7 @@ entries:
     version: 0.1.73
   - apiVersion: v2
     appVersion: 0.1.72
-    created: "2026-04-05T15:44:31.635980556Z"
+    created: "2026-04-08T18:23:41.790326042Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 4ee4133de576cde339fab606a26eb420cc31f9cf7ec64ca66b175891c0bee3c4
     name: kubescan
@@ -93,7 +103,7 @@ entries:
     version: 0.1.72
   - apiVersion: v2
     appVersion: 0.1.71
-    created: "2026-04-05T15:44:31.635577865Z"
+    created: "2026-04-08T18:23:41.789929872Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: de8479842c9a8dd6d10ff736a30f4ef7f3b7e0cbc470b1e258613194a3ebeca8
     name: kubescan
@@ -103,7 +113,7 @@ entries:
     version: 0.1.71
   - apiVersion: v2
     appVersion: 0.1.70
-    created: "2026-04-05T15:44:31.635121293Z"
+    created: "2026-04-08T18:23:41.789557527Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: ffd0739b50d3ecd1dead385562c2e6ae39644fe4b56f962a415836250c0bf2a7
     name: kubescan
@@ -113,7 +123,7 @@ entries:
     version: 0.1.70
   - apiVersion: v2
     appVersion: 0.1.69
-    created: "2026-04-05T15:44:31.634658519Z"
+    created: "2026-04-08T18:23:41.78914146Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: ea342a51033baa1668b86f6486ff4f7447463716d174cf4d3555255d6dbc3ae7
     name: kubescan
@@ -123,7 +133,7 @@ entries:
     version: 0.1.69
   - apiVersion: v2
     appVersion: 0.1.68
-    created: "2026-04-05T15:44:31.633372183Z"
+    created: "2026-04-08T18:23:41.788683716Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 3dada04c7de1f9b3c83f6a9d27db2794241b76c5ae70890f6a40a9c84c83d8bd
     name: kubescan
@@ -133,7 +143,7 @@ entries:
     version: 0.1.68
   - apiVersion: v2
     appVersion: 0.1.67
-    created: "2026-04-05T15:44:31.632448052Z"
+    created: "2026-04-08T18:23:41.788307073Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 5439d462eb88a0f3cbfdef41e3e68957ecb1b8cbc40754731974a6a20952f0a2
     name: kubescan
@@ -143,7 +153,7 @@ entries:
     version: 0.1.67
   - apiVersion: v2
     appVersion: 0.1.66
-    created: "2026-04-05T15:44:31.631333319Z"
+    created: "2026-04-08T18:23:41.787846122Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 5fb5d14c8996c50ec6f5935637bed713962283f375f50bc0eb6cf3009c8e992c
     name: kubescan
@@ -153,7 +163,7 @@ entries:
     version: 0.1.66
   - apiVersion: v2
     appVersion: 0.1.65
-    created: "2026-04-05T15:44:31.630896136Z"
+    created: "2026-04-08T18:23:41.787463488Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 95c2a4fa14e47dc9b65703c349b26f494b1baaab11c103f23ca653bf9db2b00e
     name: kubescan
@@ -163,7 +173,7 @@ entries:
     version: 0.1.65
   - apiVersion: v2
     appVersion: 0.1.64
-    created: "2026-04-05T15:44:31.630513163Z"
+    created: "2026-04-08T18:23:41.787080864Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 779662b71afef27181613f844191f7427f68b17b6a0d6e49e1ebbfebb95fad46
     name: kubescan
@@ -173,7 +183,7 @@ entries:
     version: 0.1.64
   - apiVersion: v2
     appVersion: 0.1.63
-    created: "2026-04-05T15:44:31.630106426Z"
+    created: "2026-04-08T18:23:41.786668784Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 56c927d6e05e024549c43370ca94fdc1316e7e3e5f75ec9a069a92e4284b3bcd
     name: kubescan
@@ -183,7 +193,7 @@ entries:
     version: 0.1.63
   - apiVersion: v2
     appVersion: 0.1.62
-    created: "2026-04-05T15:44:31.629713791Z"
+    created: "2026-04-08T18:23:41.786271012Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 16ad745a98e62d0f1f7d01b4fcdd0db5a45231be39fbc5cb072287b94c4cd71a
     name: kubescan
@@ -193,7 +203,7 @@ entries:
     version: 0.1.62
   - apiVersion: v2
     appVersion: 0.1.61
-    created: "2026-04-05T15:44:31.629343615Z"
+    created: "2026-04-08T18:23:41.785840358Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 95fbbff7763f3ebcf91b1f4b1d52a6cbb9cd00916330ca761ee02bba162341d1
     name: kubescan
@@ -203,7 +213,7 @@ entries:
     version: 0.1.61
   - apiVersion: v2
     appVersion: 0.1.60
-    created: "2026-04-05T15:44:31.628954294Z"
+    created: "2026-04-08T18:23:41.785317492Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 05fa3edb74dd37145081c8350ee1dbed2ce8c4ec423889ef2d414d3db2918291
     name: kubescan
@@ -213,7 +223,7 @@ entries:
     version: 0.1.60
   - apiVersion: v2
     appVersion: 0.1.59
-    created: "2026-04-05T15:44:31.628181891Z"
+    created: "2026-04-08T18:23:41.783120473Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: aeb95ca5dee4d72e320e5f902b2a325f1ac2539d4fbe7dafd1b6e237740f4d47
     name: kubescan
@@ -223,7 +233,7 @@ entries:
     version: 0.1.59
   - apiVersion: v2
     appVersion: 0.1.56
-    created: "2026-04-05T15:44:31.627820871Z"
+    created: "2026-04-08T18:23:41.782252472Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: b55c332a55328c515fdcb3c6df15522517b00086e97667f18c8ee4e475a1e357
     name: kubescan
@@ -233,7 +243,7 @@ entries:
     version: 0.1.56
   - apiVersion: v2
     appVersion: 0.1.55
-    created: "2026-04-05T15:44:31.627177509Z"
+    created: "2026-04-08T18:23:41.781643355Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 56a7fe250c117f86b61f5475a697db90473ef21b294542a8c5b034199ab0654c
     name: kubescan
@@ -243,7 +253,7 @@ entries:
     version: 0.1.55
   - apiVersion: v2
     appVersion: 0.1.54
-    created: "2026-04-05T15:44:31.626814727Z"
+    created: "2026-04-08T18:23:41.781291428Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 702a145804683269d2ad8a81974c8d787f306e13c53615603b7d51c29de1ab20
     name: kubescan
@@ -253,7 +263,7 @@ entries:
     version: 0.1.54
   - apiVersion: v2
     appVersion: 0.1.53
-    created: "2026-04-05T15:44:31.626418783Z"
+    created: "2026-04-08T18:23:41.78092275Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 967e235b9f5fcae75537eff62b0ccc3df590a22498b8083c8e6d6b4f8df84854
     name: kubescan
@@ -263,7 +273,7 @@ entries:
     version: 0.1.53
   - apiVersion: v2
     appVersion: 0.1.52
-    created: "2026-04-05T15:44:31.625411412Z"
+    created: "2026-04-08T18:23:41.780585961Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: d7e50f041e6a836e0d64f21b3c748592971159122dde5d13491b474f1d0821ed
     name: kubescan
@@ -273,7 +283,7 @@ entries:
     version: 0.1.52
   - apiVersion: v2
     appVersion: 0.1.51
-    created: "2026-04-05T15:44:31.624581155Z"
+    created: "2026-04-08T18:23:41.780243642Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 917c9783b733553ccf698ec75a7521a2fcf0cc5f8f8ae4fe8a8ba98713d8db2b
     name: kubescan
@@ -283,7 +293,7 @@ entries:
     version: 0.1.51
   - apiVersion: v2
     appVersion: 0.1.47
-    created: "2026-04-05T15:44:31.623090666Z"
+    created: "2026-04-08T18:23:41.779464888Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: bfb9548c5de836959663359a6c30ed743d7308b9a178865af1afb85ff359abe2
     name: kubescan
@@ -293,7 +303,7 @@ entries:
     version: 0.1.47
   - apiVersion: v2
     appVersion: 0.1.46
-    created: "2026-04-05T15:44:31.622764363Z"
+    created: "2026-04-08T18:23:41.779109675Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 6050fda3ea56072b3e2908231ef2a3c150f108c9919c69da07e79129ee300a29
     name: kubescan
@@ -303,7 +313,7 @@ entries:
     version: 0.1.46
   - apiVersion: v2
     appVersion: 0.1.45
-    created: "2026-04-05T15:44:31.622411872Z"
+    created: "2026-04-08T18:23:41.778681065Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 8e6adf421934a14d0e7e2eae779595c2695d4547d51ada471d21c8d72d158e66
     name: kubescan
@@ -313,7 +323,7 @@ entries:
     version: 0.1.45
   - apiVersion: v2
     appVersion: 0.1.44
-    created: "2026-04-05T15:44:31.622036911Z"
+    created: "2026-04-08T18:23:41.77829246Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: c1b9e4cd44d004a4b94723e722fe297ef8a398f70860e6544b134071787e017b
     name: kubescan
@@ -323,7 +333,7 @@ entries:
     version: 0.1.44
   - apiVersion: v2
     appVersion: 0.1.43
-    created: "2026-04-05T15:44:31.621692751Z"
+    created: "2026-04-08T18:23:41.777870252Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: b9a80bfbeba024dcf51a5398d9d2c6d964a9cb131cb99bd248ad2f32de64ac46
     name: kubescan
@@ -333,7 +343,7 @@ entries:
     version: 0.1.43
   - apiVersion: v2
     appVersion: 0.1.41
-    created: "2026-04-05T15:44:31.621341208Z"
+    created: "2026-04-08T18:23:41.777509929Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: cc319b2fa10036c0bbf5a2aca5e1abb108670db87894bf1149020a0afec06fac
     name: kubescan
@@ -343,7 +353,7 @@ entries:
     version: 0.1.41
   - apiVersion: v2
     appVersion: 0.1.39
-    created: "2026-04-05T15:44:31.620640277Z"
+    created: "2026-04-08T18:23:41.776174977Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 7958e5d9f0746b5acec4236b18cde31cfef805cbfcf85290d976fd7733a50730
     name: kubescan
@@ -353,7 +363,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.38
-    created: "2026-04-05T15:44:31.620299262Z"
+    created: "2026-04-08T18:23:41.775390883Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: c3491199bc942828871ab77776e7679160cb90b209a9d08beb2994af72c17e01
     name: kubescan
@@ -363,7 +373,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.37
-    created: "2026-04-05T15:44:31.619935259Z"
+    created: "2026-04-08T18:23:41.774448003Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 52949beedddda433f8dd679a515cc07a0b65cabe846e3f528e43dfdf316d27c9
     name: kubescan
@@ -373,7 +383,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.36
-    created: "2026-04-05T15:44:31.619551504Z"
+    created: "2026-04-08T18:23:41.774077952Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 80c84f3d29a38b40a819d47c249486a592dfc0970e9ec7c73ac111de3884f04a
     name: kubescan
@@ -383,7 +393,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.34
-    created: "2026-04-05T15:44:31.619156022Z"
+    created: "2026-04-08T18:23:41.773715996Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: eac4e95c571fe10d3222a9716924a9e7b7f6b84d7b483e34831bc68374f41062
     name: kubescan
@@ -393,7 +403,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 0.1.33
-    created: "2026-04-05T15:44:31.61878431Z"
+    created: "2026-04-08T18:23:41.773379268Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: a976df998868a38d72ca83be7f88546a9360b633c1a09b4341d606e72060f12a
     name: kubescan
@@ -403,7 +413,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 0.1.32
-    created: "2026-04-05T15:44:31.618166615Z"
+    created: "2026-04-08T18:23:41.773015599Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 50a6831ce66fd7aa8658fa3e7d431fe188178b4096427ca47aff951b51a711dd
     name: kubescan
@@ -413,7 +423,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.31
-    created: "2026-04-05T15:44:31.616984928Z"
+    created: "2026-04-08T18:23:41.772593461Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 283f8b26794adb521bd8189bbeae52087132eb63b42c9a6c3f2b8ccc65991b0c
     name: kubescan
@@ -423,7 +433,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.30
-    created: "2026-04-05T15:44:31.616158833Z"
+    created: "2026-04-08T18:23:41.772235593Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 7b56d4d02fad130ebd0bbcfb9acebb59aaa037deb5c139c16e81696711a2b954
     name: kubescan
@@ -433,7 +443,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.29
-    created: "2026-04-05T15:44:31.614940451Z"
+    created: "2026-04-08T18:23:41.771499058Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 3057b3fe677837d2928099233544d103f715ddc2b8b8192c67f5744043e0ca11
     name: kubescan
@@ -443,7 +453,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2026-04-05T15:44:31.614571909Z"
+    created: "2026-04-08T18:23:41.771127715Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 08fe8d5b63bc77a4dfa5de939961089b204f2ee6c3c0bec215d1ee18bde0c21d
     name: kubescan
@@ -453,7 +463,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2026-04-05T15:44:31.614220756Z"
+    created: "2026-04-08T18:23:41.770742075Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 93dca30a37b03359dbf2e341c476676ef963915f3247cb8017f7a318a7c162f5
     name: kubescan
@@ -463,7 +473,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2026-04-05T15:44:31.613809254Z"
+    created: "2026-04-08T18:23:41.77036476Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 46e28fa84ebc221b288b6b21fc94211f0cd5c98dca6494ce8c68919aa2af30ec
     name: kubescan
@@ -473,7 +483,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.25
-    created: "2026-04-05T15:44:31.61345203Z"
+    created: "2026-04-08T18:23:41.769923958Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 756e54a779bfa430c3debb4daafae7291a56064822b14a5505500e512aa30eb4
     name: kubescan
@@ -483,7 +493,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2026-04-05T15:44:31.613045742Z"
+    created: "2026-04-08T18:23:41.769506809Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: b7c5184d691261ee2c422183ba79c229acac37fc31f427c3f91c13a1a75d9b56
     name: kubescan
@@ -493,7 +503,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2026-04-05T15:44:31.612646564Z"
+    created: "2026-04-08T18:23:41.768408166Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: c5ba7d6793919749fe12b463f1ed0cedcbcbfa76754f2f1a773c0fa73e009679
     name: kubescan
@@ -503,7 +513,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2026-04-05T15:44:31.612245589Z"
+    created: "2026-04-08T18:23:41.767620756Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 64eac4bf8c9246bbc27bf782658e100999537f0eecc2e1deaa236a7814c5d434
     name: kubescan
@@ -513,7 +523,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2026-04-05T15:44:31.611536392Z"
+    created: "2026-04-08T18:23:41.766740585Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: ee81f8fb6de4f24dc517e12bbf2f1821fcaf6e8991afb8e57c15813634ea182f
     name: kubescan
@@ -523,7 +533,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2026-04-05T15:44:31.610841535Z"
+    created: "2026-04-08T18:23:41.766401081Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 10e2e9b11d82e8b80d1c6ebf32fc543a518f424b207f90e53a79d85a358c246c
     name: kubescan
@@ -533,7 +543,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2026-04-05T15:44:31.610161122Z"
+    created: "2026-04-08T18:23:41.765905466Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: af631ae473d96773a5f80c2cd31e02e313965ae06c0dfe903501f608ff7839bb
     name: kubescan
@@ -543,7 +553,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2026-04-05T15:44:31.609444295Z"
+    created: "2026-04-08T18:23:41.765536146Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: d10b5cc9734f195c1bb820546807808bc7e55843753c5c799a84f4dca75591f5
     name: kubescan
@@ -553,7 +563,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2026-04-05T15:44:31.608708359Z"
+    created: "2026-04-08T18:23:41.76512575Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: fa0f0cc3ad5aaaed64d3b3e311aaeae8751a2021656a30d693c7e7477ba38dc3
     name: kubescan
@@ -563,7 +573,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2026-04-05T15:44:31.628560579Z"
+    created: "2026-04-08T18:23:41.784063382Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: f40fb3e4cb0832f3793aa455ac2e0be61e1339ed90e2853f0247166913e41a6c
     name: kubescan
@@ -573,7 +583,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2026-04-05T15:44:31.623630458Z"
+    created: "2026-04-08T18:23:41.779837233Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: a7d712107e75f9bff1f22eb399df25246983c0b85bfb49b3d64e90e99793198e
     name: kubescan
@@ -583,7 +593,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2026-04-05T15:44:31.620961335Z"
+    created: "2026-04-08T18:23:41.77711942Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: 5403f6cfb6a6c276d9ee4fd720367635a1db7fa5ebd1ca0f2c7fb69cb7b2502c
     name: kubescan
@@ -593,7 +603,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2026-04-05T15:44:31.615332677Z"
+    created: "2026-04-08T18:23:41.771841637Z"
     description: KubeScan Kubernetes Runtime Security Platform
     digest: c99377c6c08871c56aa4eb893d886944217318779b25dcb71601fca5509eb030
     name: kubescan
@@ -601,4 +611,4 @@ entries:
     urls:
     - https://kubescan-com.github.io/helm-charts/kubescan-0.1.3.tgz
     version: 0.1.3
-generated: "2026-04-05T15:44:31.607743051Z"
+generated: "2026-04-08T18:23:41.76455226Z"
